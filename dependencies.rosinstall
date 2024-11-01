@@ -1,0 +1,5 @@
+- git:
+    local-name: robotiq
+    uri: https://github.com/alexwbots/robotiq.git
+    version: master
+
